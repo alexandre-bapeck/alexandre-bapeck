@@ -28,4 +28,22 @@
 
 #### Featured
 
+<p align="center">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-bapeck&repo=tic-tac-toe-project&border_color=08C5D1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=08C5D1" />
+</a>
+<span> </span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-bapeck&repo=tic-tac-toe-project&border_color=08C5D1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=08C5D1" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-bapeck&repo=tic-tac-toe-project&border_color=08C5D1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=08C5D1" />
+</a>
+<span> </span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=alexandre-bapeck&repo=tic-tac-toe-project&border_color=08C5D1&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=08C5D1" />
+</a>
+</p>
