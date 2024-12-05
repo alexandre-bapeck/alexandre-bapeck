@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Work-study project**
 
-- 👨‍💻 All of my projects are available at [All of my projects are available at my githup](All of my projects are available at my githup)
+- 👨‍💻 All of my projects are available at My Github
 
 - 💬 Ask me about **ask me questions about my experiences.**
 
