@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ALEXANDRE BAPECK</h1>
+<h1 align="center">Hi 👋, I'M ALEXANDRE BAPECK</h1
 <h3 align="center">A passionate about cybersecurity and I come from Cameroon</h3>
 
-- 🔭 I’m currently working on **Tic tac toe**
+- 🔭 I’m currently working on **LDAP**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PHCD-DNS-FTP**
 
-- 👯 I’m looking to collaborate on **Password**
+- 👯 I’m looking to collaborate on **PASSWORD**
 
 - 🤝 I’m looking for help with **Work-study project**
 
